@@ -90,7 +90,7 @@ PING github.com (140.82.121.3) 56(84) bytes of data.
 
 ## Domain Names
 
-![net-8](../../images/net8.PNG)
+![net-8](test/test1/images/net8.PNG)
 
 ## Search Domain
 
