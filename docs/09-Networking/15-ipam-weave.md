@@ -1,6 +1,6 @@
 # IPAM weave
 
-  - Take me to [Lecture](https://kodekloud.com/topic/ipam-weave/)
+  - #(https://kodekloud.com/topic/ipam-weave/)
 
 - IP Address Management in the Kubernetes Cluster
 

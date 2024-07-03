@@ -1,6 +1,6 @@
 # Pod Networking
 
-  - Take me to [Lecture](https://kodekloud.com/topic/pod-networking/)
+  - #(https://kodekloud.com/topic/pod-networking/)
 
 In this section, we will take a look at **Pod Networking**
 

@@ -1,6 +1,6 @@
 # CNI weave
   
-  - Take me to [Lecture](https://kodekloud.com/topic/cni-weave/)
+  - #(https://kodekloud.com/topic/cni-weave/)
 
 In this section, we will take a look at "CNI Weave in the Kubernetes Cluster"
 

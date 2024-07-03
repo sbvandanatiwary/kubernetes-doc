@@ -1,6 +1,6 @@
 # Pre-requisite DNS
 
-  - Take me to [Lecture](https://kodekloud.com/topic/prerequsite-dns/)
+  - #(https://kodekloud.com/topic/prerequsite-dns/)
 
 In this section, we will take a look at **DNS in the Linux**
 
