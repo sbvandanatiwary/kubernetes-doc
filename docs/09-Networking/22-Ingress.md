@@ -1,6 +1,6 @@
 # Ingress
 
-  - #(https://kodekloud.com/topic/ingress/)
+
 
 In this section, we will take a look at **Ingress**
 
