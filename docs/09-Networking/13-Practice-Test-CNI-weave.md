@@ -1,6 +1,6 @@
 # Practice Test - CNI weave
 
-  - Take me to [Practice Test](https://kodekloud.com/topic/practice-test-cni-weave/)
+ 
 
 #### Solution
 
