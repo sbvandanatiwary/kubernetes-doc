@@ -1,6 +1,6 @@
 # Storage Class
 
-  - Take me to [Lecture](https://kodekloud.com/topic/storage-class/)
+ 
 
 In this section, we will take a look at **Storage Class**
 
