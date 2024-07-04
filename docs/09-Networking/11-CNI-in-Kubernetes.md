@@ -1,6 +1,6 @@
 # CNI in Kubernetes
 
-  - #(https://kodekloud.com/topic/cni-in-kubernetes/)
+ 
 
 In this section, we will take a look at **Container Networking Interface (CNI) in Kubernetes**
 

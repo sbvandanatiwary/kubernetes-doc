@@ -1,6 +1,6 @@
 # Pre-requisite CoreDNS
 
-  - #(https://kodekloud.com/topic/prerequisite-coredns/)
+  
 
 In this section, we will take a look at **CoreDNS**
 

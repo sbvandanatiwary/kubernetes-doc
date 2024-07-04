@@ -1,6 +1,6 @@
 # Practice Test CKA Ingress 2
 
-  - Take me to [Practice Test](https://kodekloud.com/topic/practice-test-cka-ingress-networking-2/)
+ 
 
 #### Solution 
 

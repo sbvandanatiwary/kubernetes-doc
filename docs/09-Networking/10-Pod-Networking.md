@@ -1,6 +1,6 @@
 # Pod Networking
 
-  - #(https://kodekloud.com/topic/pod-networking/)
+  
 
 In this section, we will take a look at **Pod Networking**
 

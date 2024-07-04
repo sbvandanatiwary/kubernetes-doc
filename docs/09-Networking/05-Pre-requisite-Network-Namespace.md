@@ -1,6 +1,6 @@
 # Pre-requisite Network Namespaces
 
-  - #(https://kodekloud.com/topic/prerequsite-network-namespaces/)
+ 
 
 In this section, we will take a look at **Network Namespaces**
 

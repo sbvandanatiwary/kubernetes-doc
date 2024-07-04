@@ -1,6 +1,6 @@
 # Service Networking
 
-  - #(https://kodekloud.com/topic/service-networking/)
+
 
 In this section, we will take a look at **Service Networking**
 

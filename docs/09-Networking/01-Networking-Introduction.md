@@ -1,6 +1,6 @@
 # Section Introduction
 
-  - #(https://kodekloud.com/topic/networking-introduction/)
+ 
 
 In this section, we will take a look at **Networking Section**
 

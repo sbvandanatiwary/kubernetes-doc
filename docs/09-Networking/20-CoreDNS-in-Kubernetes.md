@@ -1,7 +1,6 @@
 # CoreDNS in Kubernetes
 
-  - #(https://kodekloud.com/topic/coredns-in-kubernetes/)
-
+ 
 In this section, we will take a look at **CoreDNS in the Kubernetes**
 
 

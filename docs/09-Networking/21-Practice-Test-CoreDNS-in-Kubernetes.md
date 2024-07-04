@@ -1,6 +1,6 @@
 # Practice Test CoreDNS in Kubernetes
 
-  - Take me to [Practice Test](https://kodekloud.com/topic/practice-test-coredns-in-kubernetes/)
+ 
 
 #### Solution 
 

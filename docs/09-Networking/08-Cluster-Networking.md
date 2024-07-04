@@ -1,6 +1,6 @@
 # Pre-requisite Cluster Networking
 
-  - #(https://kodekloud.com/topic/cluster-networking/)
+
 
 In this section, we will take a look at **Pre-requisite of the Cluster Networking**
 

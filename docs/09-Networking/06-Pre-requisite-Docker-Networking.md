@@ -1,6 +1,6 @@
 # Pre-requisite Docker Networking
 
-  - #(https://kodekloud.com/topic/prerequsite-docker-networking/)
+  
 
 In this section, we will take a look at **Docker Networking**
 

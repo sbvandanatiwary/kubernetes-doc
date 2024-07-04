@@ -1,6 +1,6 @@
 # Practice Test - Explore Env
 
-  - Take me to [Practice Test](https://kodekloud.com/topic/practice-test-explore-environment/)
+
 
 #### Solution
 

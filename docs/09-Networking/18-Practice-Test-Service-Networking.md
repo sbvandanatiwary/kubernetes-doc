@@ -1,6 +1,6 @@
 # Practice Test Service Networking
 
-  - Take me to [Practice Test](https://kodekloud.com/topic/practice-test-service-networking/)
+ 
 
 #### Solution 
 
